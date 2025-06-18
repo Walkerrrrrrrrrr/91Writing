@@ -113,7 +113,7 @@
         <ul>
           <li><strong>模型选择：</strong>推荐使用gemini2.5pro、claude3.7/4</li>
           <li><strong>国产模型：</strong>国产模型推荐使用阿里百炼API速度比较快</li>
-          <li><strong>最佳模型：</strong><span style="color: red;">gemini、claude中转可以联系作者微信 woaihushou</span></li>
+          <li><strong>最佳模型：</strong><span style="color: red;">gemini、claude中转可以联系作者微信 woaizhushou</span></li>
           <li><strong>最大Token：</strong>控制生成内容的长度</li>
           <li><strong>创造性：</strong>0表示更准确，1表示更有创意</li>
         </ul>
