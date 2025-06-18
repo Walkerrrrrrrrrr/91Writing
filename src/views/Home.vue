@@ -3,7 +3,7 @@
     <!-- 顶部导航 -->
     <div class="top-nav">
       <div class="nav-left">
-        <h1 class="app-title">📚 91AI小说生成器</h1>
+        <h1 class="app-title">📚 团子AI小说生成器</h1>
       </div>
       <div class="nav-right">
         <el-button @click="showStatsDialog = true">
